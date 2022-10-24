@@ -1,0 +1,30 @@
+header {
+   width: 100%;
+   background-color: #0d9451;
+   height: 30px;
+   border-bottom: 10px; 
+   border-color: #d19c9c;
+
+}
+
+ul {
+text-align: right;
+color: #faf6f6;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+word-spacing: 30px;
+
+}
+
+li {
+    
+    list-style-type: none;
+    font-size: 20 px;
+    display: inline;
+
+}
+
+.center {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
